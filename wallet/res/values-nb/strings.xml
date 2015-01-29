@@ -17,7 +17,7 @@
 	<string name="wallet_addresses_fragment_add_dialog_title">Tilføy NuBits-adresse</string>
 	<string name="wallet_addresses_fragment_add_dialog_message">NuBits-adresser kan ikke slettes. Vil du tilføye en ny adresse til din lommebok?</string>
 	<string name="wallet_balance_fragment_replaying">Saldo er ikke tilgjengelig under avspilling.</string>
-	<string name="exchange_rates_activity_title">valutakurser</string>
+	<string name="exchange_rates_activity_title">Valutakurser</string>
 	<string name="exchange_rates_fragment_empty_text">Kunne ikke laste valutakurser.</string>
 	<string name="exchange_rates_fragment_empty_search">Kunne ikke finne valutakurser.</string>
 	<string name="exchange_rates_fragment_default">(standard)</string>
@@ -211,7 +211,7 @@
 
   <!-- generic buttons -->
 	<string name="button_ok">OK</string>
-	<string name="button_dismiss">Avvis</string>
+	<string name="button_dismiss">Lukk</string>
 	<string name="button_cancel">Avbryt</string>
 	<string name="button_retry">Prøv igjen</string>
 	<string name="button_help">Hjelp</string>
