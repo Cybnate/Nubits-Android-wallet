@@ -1,5 +1,7 @@
 ## Welcome to _NuBits Wallet_
 
+[![Join the chat at https://gitter.im/Cybnate/Nubits-Android-wallet](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Cybnate/Nubits-Android-wallet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 __What is _NuBits Wallet_?__
 
 It is a standalone NuBits payment app for your Android device!
