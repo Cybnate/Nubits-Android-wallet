@@ -1,6 +1,8 @@
-## Welcome to _NuBits Wallet_
+## Welcome to _NuDroid_
 
-__What is _NuBits Wallet_?__
+[![Join the chat at https://gitter.im/Cybnate/NuDroid](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Cybnate/NuDroid?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+__What is _NuDroid_?__
 
 It is a standalone NuBits payment app for your Android device!
 Check out the thread in our forum here: https://discuss.NuBits.com/t/proposal-to-develop-a-NuBits-android-wallet-final-version-now-available/691/70
